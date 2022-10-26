@@ -4,11 +4,6 @@ import { SiEthereum } from "react-icons/si";
 import { BsInfoCircle } from "react-icons/bs";
 import { Loader } from "./";
 import { TransactionContext } from "../context/TransactionContext";
-<<<<<<< HEAD
-//import { shortenAddress } from "../utils/shortenAddress"
-=======
-// import { shortenAddress } from "../utils/shortenAddress"
->>>>>>> 8d95fed1402a3de4eb643b5c0fc968092c8dc127
 
 const commonStyles =
   "text-white min-h-[70px] sm:px-0 px-2 sm:min-w-[120px] flex justify-center items-center border-[0.5px] border-gray-400 text-sm font-light text-white";
